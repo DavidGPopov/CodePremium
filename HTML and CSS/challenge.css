@@ -1,0 +1,49 @@
+body {
+  border: 5px solid black;
+}
+
+h1 {
+  font-size: 26px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #e6e6e6;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+.price {
+  font-size: 26px;
+}
+
+.delivery {
+  text-transform: uppercase;
+  color: #9b9b9b;
+}
+
+a:link {
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style: square;
+}
+
+button {
+  text-transform: uppercase;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  border: none;
+}
+
+button:hover {
+  color: black;
+  background-color: white;
+}
